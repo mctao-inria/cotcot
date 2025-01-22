@@ -1,13 +1,10 @@
 # cotcot: conditions of order two, conjugate times
 
-<p align="justify">
 <img src="fig4.jpg" height=225 width=260 border=1 align="left">
 
 ## Description
 
 cotcot is a Matlab package designed to compute extremals in the case of *smooth* Hamiltonian systems, and to obtain the associated conjugate points with respect to the performance index of the underlying optimal control problem.
-
-<p>
 
 ## References
 
