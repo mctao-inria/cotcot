@@ -2,8 +2,7 @@
 
 <img src="fig4.jpg" height=225 width=260 border=1>
 
-[citation-img]: https://zenodo.org/badge/541187171.svg
-[citation-url]: https://zenodo.org/doi/10.5281/zenodo.14722043
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14722043.svg)](https://doi.org/10.5281/zenodo.14722043)
 
 ## Description
 
