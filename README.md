@@ -7,6 +7,8 @@
 
 cotcot is a Matlab package designed to compute extremals in the case of *smooth* Hamiltonian systems, and to obtain the associated conjugate points with respect to the performance index of the underlying optimal control problem.
 
+<p>
+
 ## References
 
 1. <a href="http://caillau.perso.math.cnrs.fr/research/cocv-2007.pdf">Second order optimality
