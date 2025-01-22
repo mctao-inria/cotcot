@@ -1,6 +1,6 @@
 # cotcot: conditions of order two, conjugate times
 
-<img src="fig4.jpg" height=225 width=260 border=1 align="left">
+<img src="fig4.jpg" height=225 width=260 border=1>
 
 ## Description
 
