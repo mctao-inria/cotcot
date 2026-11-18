@@ -3,11 +3,11 @@ title: "cotcot: conditions of order two, conjugate times"
 ---
 
 <div class="logos-top">
-<img src="logo-ub.jpg" alt="Université de Bourgogne" height="50">
-<img src="petit_enseeiht.gif" alt="ENSEEIHT" height="25">
-<img src="irit.gif" alt="IRIT" height="30">
-<img src="logo-psud.jpg" alt="Université Paris-Sud" height="35">
-<img src="cnrs.jpg" alt="CNRS" height="50">
+<img src="logo-ub.png" alt="Université Bourgogne Europe" height="56">
+<img src="logo-enseeiht.png" alt="ENSEEIHT" height="32">
+<img src="logo-irit.png" alt="IRIT" height="50">
+<img src="logo-psud.png" alt="Université Paris-Sud" height="50">
+<img src="cnrs.png" alt="CNRS" height="56">
 </div>
 
 <img class="float-left" src="fig4.jpg" alt="Conjugate points, figure 4" width="260">

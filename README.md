@@ -51,6 +51,6 @@ J. Buckheit and D. Donoho (Stanford Univ.)
 cotcot <a href="docs/cotcot.zip">package</a>
 (Fortran 77, Adifor and Matlab 4 or higher required). 
 
-<img src="docs/logo-ub.jpg" height=50> <img src="docs/petit_enseeiht.gif" height=25> <img src="docs/irit.gif" height=30> <img src="docs/logo-psud.jpg" height=35> <img src="docs/cnrs.jpg" height=50>
+<img src="docs/logo-ub.png" height=56> <img src="docs/logo-enseeiht.png" height=32> <img src="docs/logo-irit.png" height=50> <img src="docs/logo-psud.png" height=50> <img src="docs/cnrs.png" height=56>
 
 Last modified: Fri 26 Nov 2009 14:41:56 CET
