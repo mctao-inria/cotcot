@@ -110,7 +110,8 @@ footer {
 }
 
 /* Software pages (tfmin, wasp) */
-.logos-top img { height: 40px; width: auto; margin-right: 0.6rem; vertical-align: middle; }
+.logos-top { display: flex; flex-wrap: wrap; align-items: center; gap: 0.6rem 1.6rem; margin: 0 0 1.2rem; }
+.logos-top img { width: auto; margin: 0; }
 img.float-left { float: left; margin: 0.2rem 1.2rem 0.6rem 0; border: 1px solid var(--rule); max-width: 45%; height: auto; }
 .eq { margin: 1rem 0 1rem 2rem; font-family: Georgia, serif; }
 .refs p { margin: 0.4rem 0; padding-left: 2rem; text-indent: -2rem; }
