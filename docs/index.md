@@ -36,10 +36,10 @@ Bernard Bonnard and Jean-Baptiste Caillau<br>
 > *"An article about computational science in a scientific publication is not the scholarship itself, it is merely advertising of the scholarship. The actual scholarship is the complete software development environment and the complete set of instructions which generated the figures."*
 > J. Buckheit and D. Donoho (Stanford Univ.)
 
-[1] Figures 6 and 7 [code](http://caillau.perso.math.cnrs.fr/research/cocv-2007.zip)<br>
-[2] Figures 1 and 2 [code](http://caillau.perso.math.cnrs.fr/research/dcdsB-2005.zip)<br>
+[1] Figures 6 and 7 [code](cocv-2007.zip)<br>
+[2] Figures 1 and 2 [code](dcdsB-2005.zip)<br>
 [3] Figure 1, see [2] Figure 1<br>
-[4] Figures 3, 4a-4d, 5 and 6a-6b [code](http://caillau.perso.math.cnrs.fr/research/anihp-2007.zip)
+[4] Figures 3, 4a-4d, 5 and 6a-6b [code](anihp-2007.zip)
 
 ## Download
 
@@ -48,7 +48,7 @@ Link to [Adifor](http://www-unix.mcs.anl.gov/autodiff/ADIFOR) at Rice.
 
 ## See also
 
-[Hampath](http://apo.enseeiht.fr/hampath) which extends cotcot by adding a differential homotopy layer.
+[Hampath](https://gitlab.inria.fr/ct/hampath) which extends cotcot by adding a differential homotopy layer.
 
 ---
 

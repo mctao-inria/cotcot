@@ -41,10 +41,10 @@ figures.*
 
 J. Buckheit and D. Donoho (Stanford Univ.)
 
-1. Figures 6 and 7 <a href="http://caillau.perso.math.cnrs.fr/research/cocv-2007.zip">code</a>
-1. Figures 1 and 2 <a href="http://caillau.perso.math.cnrs.fr/research/dcdsB-2005.zip">code</a>
+1. Figures 6 and 7 <a href="docs/cocv-2007.zip">code</a>
+1. Figures 1 and 2 <a href="docs/dcdsB-2005.zip">code</a>
 1. Figure 1, see [2] Figure 1
-1. Figures 3, 4a-4d, 5 and 6a-6b <a href="http://caillau.perso.math.cnrs.fr/research/anihp-2007.zip">code</a>
+1. Figures 3, 4a-4d, 5 and 6a-6b <a href="docs/anihp-2007.zip">code</a>
 
 ## Download
 
