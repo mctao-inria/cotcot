@@ -1,8 +1,10 @@
 # cotcot: conditions of order two, conjugate times
 
-<img src="fig4.jpg" height=225 width=260 border=1>
+<img src="docs/fig4.jpg" height=225 width=260 border=1>
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14722043.svg)](https://doi.org/10.5281/zenodo.14722043)
+
+Web page: <https://mctao-inria.github.io/cotcot/>
 
 ## Description
 
@@ -46,9 +48,9 @@ J. Buckheit and D. Donoho (Stanford Univ.)
 
 ## Download
 
-cotcot <a href="cotcot.zip">package</a>
+cotcot <a href="docs/cotcot.zip">package</a>
 (Fortran 77, Adifor and Matlab 4 or higher required). 
 
-<img src="logo-ub.jpg" height=50> <img src="petit_enseeiht.gif" height=25> <img src="irit.gif" height=30> <img src="logo-psud.jpg" height=35> <img src="cnrs.jpg" height=50>
+<img src="docs/logo-ub.jpg" height=50> <img src="docs/petit_enseeiht.gif" height=25> <img src="docs/irit.gif" height=30> <img src="docs/logo-psud.jpg" height=35> <img src="docs/cnrs.jpg" height=50>
 
 Last modified: Fri 26 Nov 2009 14:41:56 CET

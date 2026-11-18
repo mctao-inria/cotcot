@@ -1,0 +1,11 @@
+title: "cotcot: conditions of order two, conjugate times"
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
